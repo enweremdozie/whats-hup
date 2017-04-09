@@ -36,10 +36,7 @@ public class DiscoCity : MonoBehaviour {
 	public bool NMover;
 	public int endCount = 0;
 
-void ForGit(){
 
-//so what 
-}
 
 	void Awake(){
 		
